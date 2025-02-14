@@ -20,5 +20,6 @@
 📊 **Данные:** [Kaggle](https://www.kaggle.com/datasets/thedevastator/formula-one-racing-a-comprehensive-data-analysis)  
 
 🔗 **[Отчет](F1/F1%20dashboard.pbix)**  
-
+ 
+ 
 ---
